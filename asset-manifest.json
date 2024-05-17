@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bb20331.css",
+    "main.js": "/static/js/main.a4bc60d7.js",
+    "static/js/453.41811d64.chunk.js": "/static/js/453.41811d64.chunk.js",
+    "static/media/instagramPosts.png": "/static/media/instagramPosts.ece0412c5231169c2eb2.png",
+    "static/media/StarbucksProject.png": "/static/media/StarbucksProject.879ed40a4ca860dedaaa.png",
+    "static/media/PlatoProject.png": "/static/media/PlatoProject.19001b428cd0f6124d6e.png",
+    "static/media/instagramLogo.png": "/static/media/instagramLogo.bcc57bdcdb33d3a72e85.png",
+    "static/media/FinanceProject.png": "/static/media/FinanceProject.de05d419d817f83ec94b.png",
+    "static/media/ToDoProject.png": "/static/media/ToDoProject.597a20fc36bb41ec70da.png",
+    "static/media/react.png": "/static/media/react.af99a4e26498d0efd6bf.png",
+    "static/media/memoji.jpeg": "/static/media/memoji.036f062c0d121d970b80.jpeg",
+    "static/media/contactMemoji.png": "/static/media/contactMemoji.924eb76d08cca2785a69.png",
+    "static/media/html.png": "/static/media/html.89d593ab6ac49053f052.png",
+    "static/media/javascript.png": "/static/media/javascript.b2f50fb4ced23aa3f1a5.png",
+    "static/media/css.png": "/static/media/css.2c6cac495d47a47839f3.png",
+    "static/media/GitHub-Logo.png": "/static/media/GitHub-Logo.1138fa3ee882ab367f83.png",
+    "index.html": "/index.html",
+    "main.0bb20331.css.map": "/static/css/main.0bb20331.css.map",
+    "main.a4bc60d7.js.map": "/static/js/main.a4bc60d7.js.map",
+    "453.41811d64.chunk.js.map": "/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb20331.css",
+    "static/js/main.a4bc60d7.js"
+  ]
+}
